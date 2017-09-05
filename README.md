@@ -2,9 +2,9 @@
 
 This repository includes a MATLAB&reg; implementation of the **Vector Immune System**. See this reference for details:
 
-<center>
-Freschi F. and Repetto M., "VIS: An artificial immune network for multi-objective optimization", *Engineering Optimization*, Vol. 38, No.8, December 2006, DOI: 10.1080/03052150600880706
-</center>
+<p align="center">
+Freschi F. and Repetto M., "VIS: An artificial immune network for multi-objective optimization", Engineering Optimization, Vol. 38, No.8, December 2006, DOI: 10.1080/03052150600880706
+</p>
 
 ## Installation
 
