@@ -1,10 +1,16 @@
 # VIS
 
-This repository includes a MATLAB&reg; implementation of the **Vector Immune System**. See this reference for details:
+This repository includes a MATLAB&reg; implementation of a multi-objective optimization tool called  **Vector Immune System**.
 
-<p align="center">
-Freschi F. and Repetto M., "VIS: An artificial immune network for multi-objective optimization", Engineering Optimization, Vol. 38, No.8, December 2006, DOI: 10.1080/03052150600880706
-</p>
+## If I use this too, how can I cite it?
+
+If you use this tool you can consider citing the following papers. The first include all the details of the method, the second deals with an application.
+
+
+**[1]** Freschi F. and Repetto M., "VIS: An artificial immune network for multi-objective optimization", *Engineering Optimization*, Vol. 38, No.8, December 2006, https://doi.org/10.1080/03052150600880706
+
+**[2]** Canova A., Freschi F., Giaccone L., Repetto M., Solimene L. "Identification of Material Properties and Optimal Design of Magnetically Shielded Rooms". *Magnetochemistry*. 2021; 7(2):23. https://doi.org/10.3390/magnetochemistry7020023
+
 
 ## Installation
 
