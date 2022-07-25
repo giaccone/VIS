@@ -2,7 +2,7 @@
 
 This repository includes a MATLAB&reg; implementation of a multi-objective optimization tool called  **Vector Immune System**.
 
-## If I use this too, how can I cite it?
+## If I use this tool, how can I cite it?
 
 If you use this tool you can consider citing the following papers. The first include all the details of the method, the second deals with an application.
 
